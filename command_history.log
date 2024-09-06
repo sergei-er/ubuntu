@@ -1,0 +1,15 @@
+2024-09-06 20:37:35.538 +0000 ershov_sergei_viktorovich: Сгенерирован новый UUID: EzBAPuwZTnHBTRApUxFEXoDa9aPgESOTNPVm/zoPeqY5fbOSK3vdnulrcPfv0/e5CNx0Sv50VOLBkN0+wkBGpnZDPhHzn0/HJQCKuaPaVkZFfYut+2a9IbbaJHPU7a5fhzaBFVroQWwH1PcGEEkNJEFJ3aPd5+lTjnBwujlrIo+YgRwIKJJ5GtKMHVLh2SrXZDbwudo2mpkp6/Zwv0JOGzni8DzRyZ+upKCtTNv9ifzyNhKfpRBweZ0qumyXyqcur21pHTSup6utKwqtvbB1wpommvs5UwaeQYFR9h7UhKbxLomzHZfdbk5raE4Evxl653IBiGVFQLAjYgA+OYAurg==
+2024-09-06 20:37:35.540 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-06 20:37:36.575 +0000 ershov_sergei_viktorovich : nohup sudo ./compiled_script.sh.x 
+2024-09-06 20:37:41.714 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:38:06.237 +0000 ershov_sergei_viktorovich : nano nohup.out 
+2024-09-06 20:38:18.518 +0000 ershov_sergei_viktorovich : pkeyutl
+2024-09-06 20:39:19.813 +0000 ershov_sergei_viktorovich : ifconfig
+2024-09-06 20:39:26.977 +0000 ershov_sergei_viktorovich : nano nohup.out 
+2024-09-06 20:39:27.998 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:39:48.431 +0000 ershov_sergei_viktorovich : cd home
+2024-09-06 20:40:00.692 +0000 ershov_sergei_viktorovich : cd ../home
+2024-09-06 20:41:24.436 +0000 ershov_sergei_viktorovich : cat /var/log/command_history.log
+2024-09-06 20:41:43.845 +0000 ershov_sergei_viktorovich : cd /var/log
+2024-09-06 20:41:45.890 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:42:53.343 +0000 ershov_sergei_viktorovich : git add command_history.log 
