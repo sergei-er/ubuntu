@@ -188,3 +188,35 @@
 2024-09-07 14:05:13.584 +0000 ershov_sergei_viktorovich : ls my-repo 
 2024-09-07 14:05:32.034 +0000 ershov_sergei_viktorovich : ls my-repo/ubuntu
 2024-09-07 14:06:02.764 +0000 ershov_sergei_viktorovich : cd /var/log
+2024-09-07 14:07:46.275 +0000 ershov_sergei_viktorovich : cp command_history.log /home/ershov_sergei_viktorovich/my-repo/ubuntu/
+2024-09-07 14:08:37.472 +0000 ershov_sergei_viktorovich : cd home/ershov_sergei_viktorovich/my-repo/ubuntu/
+2024-09-07 14:08:43.616 +0000 ershov_sergei_viktorovich : cd home/ershov_sergei_viktorovich/my-repo/ubuntu
+2024-09-07 14:09:02.068 +0000 ershov_sergei_viktorovich : cd home
+2024-09-07 14:09:07.182 +0000 ershov_sergei_viktorovich : cd /home
+2024-09-07 14:09:17.422 +0000 ershov_sergei_viktorovich : cdershov_sergei_viktorovich/my-repo/ubuntu
+2024-09-07 14:09:24.575 +0000 ershov_sergei_viktorovich : c dershov_sergei_viktorovich/my-repo/ubuntu
+2024-09-07 14:09:34.809 +0000 ershov_sergei_viktorovich : cd ershov_sergei_viktorovich/my-repo/ubuntu
+2024-09-07 14:10:19.880 +0000 ershov_sergei_viktorovich : git push -u origin master
+2024-09-07 14:10:46.486 +0000 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-07 14:11:00.868 +0000 ershov_sergei_viktorovich : git commint
+2024-09-07 14:11:26.538 +0000 ershov_sergei_viktorovich : git commit
+2024-09-07 14:11:41.926 +0000 ershov_sergei_viktorovich : git push -u origin master
+2024-09-07 14:12:11.626 +0000 ershov_sergei_viktorovich : ls
+2024-09-07 14:12:57.702 +0000 ershov_sergei_viktorovich : git pull origin master
+2024-09-07 14:14:01.229 +0000 ershov_sergei_viktorovich : ls
+2024-09-07 14:14:12.493 +0000 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-07 14:14:54.514 +0000 ershov_sergei_viktorovich : git commit
+2024-09-07 14:15:42.571 +0000 ershov_sergei_viktorovich : git commit -m "second"
+2024-09-07 14:16:14.339 +0000 ershov_sergei_viktorovich : git push -u origin master
+2024-09-07 15:39:34.627 +0000 ershov_sergei_viktorovich : cd /home
+2024-09-07 15:39:36.681 +0000 ershov_sergei_viktorovich : ls
+2024-09-07 16:05:19.294 +0000 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: EzBAPuwZTnHBTRApUxFEXoDa9aPgESOTNPVm/zoPeqY5fbOSK3vdnulrcPfv0/e5CNx0Sv50VOLBkN0+wkBGpnZDPhHzn0/HJQCKuaPaVkZFfYut+2a9IbbaJHPU7a5fhzaBFVroQWwH1PcGEEkNJEFJ3aPd5+lTjnBwujlrIo+YgRwIKJJ5GtKMHVLh2SrXZDbwudo2mpkp6/Zwv0JOGzni8DzRyZ+upKCtTNv9ifzyNhKfpRBweZ0qumyXyqcur21pHTSup6utKwqtvbB1wpommvs5UwaeQYFR9h7UhKbxLomzHZfdbk5raE4Evxl653IBiGVFQLAjYgA+OYAurg==
+2024-09-07 16:05:19.296 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-07 16:06:35.024 +0000 ershov_sergei_viktorovich : nano /var/command_history.log
+2024-09-07 16:06:50.366 +0000 ershov_sergei_viktorovich : sudo chmod +x compiled_script.sh.x
+2024-09-07 16:06:56.576 +0000 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: EzBAPuwZTnHBTRApUxFEXoDa9aPgESOTNPVm/zoPeqY5fbOSK3vdnulrcPfv0/e5CNx0Sv50VOLBkN0+wkBGpnZDPhHzn0/HJQCKuaPaVkZFfYut+2a9IbbaJHPU7a5fhzaBFVroQWwH1PcGEEkNJEFJ3aPd5+lTjnBwujlrIo+YgRwIKJJ5GtKMHVLh2SrXZDbwudo2mpkp6/Zwv0JOGzni8DzRyZ+upKCtTNv9ifzyNhKfpRBweZ0qumyXyqcur21pHTSup6utKwqtvbB1wpommvs5UwaeQYFR9h7UhKbxLomzHZfdbk5raE4Evxl653IBiGVFQLAjYgA+OYAurg==
+2024-09-07 16:06:56.578 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-07 16:07:23.190 +0000 ershov_sergei_viktorovich : ls
+2024-09-07 16:07:31.359 +0000 ershov_sergei_viktorovich : ifconfig
+2024-09-07 16:08:02.065 +0000 ershov_sergei_viktorovich : nano /var/command_history.log
+2024-09-07 16:11:22.547 +0000 ershov_sergei_viktorovich : nano /var/log/command_history.log
