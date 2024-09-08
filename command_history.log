@@ -245,3 +245,92 @@
 2024-09-07 16:27:45.919 +0000 ershov_sergei_viktorovich : git push
 2024-09-07 16:29:20.016 +0000 ershov_sergei_viktorovich : rm command_history.log 
 2024-09-07 16:29:22.061 +0000 ershov_sergei_viktorovich : ls
+2024-09-07 16:29:35.354 +0000 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/my-repo/ubuntu/
+2024-09-07 16:29:38.425 +0000 ershov_sergei_viktorovich : ls
+2024-09-07 16:29:55.835 +0000 ershov_sergei_viktorovich : git push
+2024-09-07 16:30:12.190 +0000 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-07 16:30:23.445 +0000 ershov_sergei_viktorovich : git commit "111"
+2024-09-07 16:30:51.072 +0000 ershov_sergei_viktorovich : git commit -m "111"
+2024-09-07 16:31:03.352 +0000 ershov_sergei_viktorovich : git push -u origin masetr
+2024-09-07 16:31:10.525 +0000 ershov_sergei_viktorovich : git push -u origin maseter
+2024-09-07 16:31:21.791 +0000 ershov_sergei_viktorovich : git push
+2024-09-08 16:24:30.779 +0000 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: EzBAPuwZTnHBTRApUxFEXoDa9aPgESOTNPVm/zoPeqY5fbOSK3vdnulrcPfv0/e5CNx0Sv50VOLBkN0+wkBGpnZDPhHzn0/HJQCKuaPaVkZFfYut+2a9IbbaJHPU7a5fhzaBFVroQWwH1PcGEEkNJEFJ3aPd5+lTjnBwujlrIo+YgRwIKJJ5GtKMHVLh2SrXZDbwudo2mpkp6/Zwv0JOGzni8DzRyZ+upKCtTNv9ifzyNhKfpRBweZ0qumyXyqcur21pHTSup6utKwqtvbB1wpommvs5UwaeQYFR9h7UhKbxLomzHZfdbk5raE4Evxl653IBiGVFQLAjYgA+OYAurg==
+2024-09-08 16:24:30.781 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-08 16:24:31.835 +0000 ershov_sergei_viktorovich : nohup sudo ./compiled_script.sh.x
+2024-09-08 16:25:30.144 +0000 ershov_sergei_viktorovich : nano /var/log/command_history.log
+2024-09-08 16:25:35.258 +0000 ershov_sergei_viktorovich : clear
+2024-09-08 16:26:41.725 +0000 ershov_sergei_viktorovich : whoami
+2024-09-08 16:26:50.934 +0000 ershov_sergei_viktorovich : cd /
+2024-09-08 16:26:56.055 +0000 ershov_sergei_viktorovich : ls
+2024-09-08 16:27:20.599 +0000 ershov_sergei_viktorovich : type ls
+2024-09-08 16:27:24.696 +0000 ershov_sergei_viktorovich : type cd
+2024-09-08 16:27:46.184 +0000 ershov_sergei_viktorovich : ls /home
+2024-09-08 16:28:08.653 +0000 ershov_sergei_viktorovich : cd /tmp
+2024-09-08 16:28:15.813 +0000 ershov_sergei_viktorovich : ls
+2024-09-08 16:28:39.353 +0000 ershov_sergei_viktorovich : mkdir pt
+2024-09-08 16:28:42.421 +0000 ershov_sergei_viktorovich : cd pt
+2024-09-08 16:29:03.892 +0000 ershov_sergei_viktorovich : touch 1.txt 2.txt 3.txt
+2024-09-08 16:29:33.576 +0000 ershov_sergei_viktorovich : nano 1.txt
+2024-09-08 16:31:00.534 +0000 ershov_sergei_viktorovich : vim 2.txt
+2024-09-08 16:31:20.996 +0000 ershov_sergei_viktorovich : cp -r pt pt_copy
+2024-09-08 16:31:37.377 +0000 ershov_sergei_viktorovich : cd /tmp
+2024-09-08 16:31:40.462 +0000 ershov_sergei_viktorovich : cp -r pt pt_copy
+2024-09-08 16:32:16.287 +0000 ershov_sergei_viktorovich : tar -czvf pt_copy.tar.gz pt_copy
+2024-09-08 16:32:50.015 +0000 ershov_sergei_viktorovich : tar -xzvf pt_copy.tar.gz
+2024-09-08 16:33:05.362 +0000 ershov_sergei_viktorovich : ls ~/usr
+2024-09-08 16:33:10.475 +0000 ershov_sergei_viktorovich : ls ~ /usr
+2024-09-08 16:33:19.665 +0000 ershov_sergei_viktorovich : ls -r
+2024-09-08 16:33:37.053 +0000 ershov_sergei_viktorovich : ls ~ /usr -r
+2024-09-08 16:34:16.986 +0000 ershov_sergei_viktorovich : ls -ld  ~ /usr
+2024-09-08 16:34:44.587 +0000 ershov_sergei_viktorovich : ls -l 1.txt 2.txt 3.txt
+2024-09-08 16:35:02.992 +0000 ershov_sergei_viktorovich : ls -l pt/1.txt pt/2.txt pt/3.txt
+2024-09-08 16:35:59.277 +0000 ershov_sergei_viktorovich : mv pt/1.txt /tmp/new_1.txt
+2024-09-08 16:36:47.373 +0000 ershov_sergei_viktorovich : mkdir new_directory
+2024-09-08 16:36:57.597 +0000 ershov_sergei_viktorovich : cd new_directory
+2024-09-08 16:37:12.933 +0000 ershov_sergei_viktorovich : touch new_file.txt
+2024-09-08 16:38:34.741 +0000 ershov_sergei_viktorovich : mv -i /tmp/1_new.txt new_file.txt
+2024-09-08 16:38:42.919 +0000 ershov_sergei_viktorovich : ls /tmp
+2024-09-08 16:39:53.450 +0000 ershov_sergei_viktorovich : mv -i /tmp/new_1.txt new_file.txt
+2024-09-08 16:40:29.256 +0000 ershov_sergei_viktorovich : wich ls
+2024-09-08 16:40:36.406 +0000 ershov_sergei_viktorovich : which ls
+2024-09-08 16:40:40.510 +0000 ershov_sergei_viktorovich : which cd
+2024-09-08 16:40:56.879 +0000 ershov_sergei_viktorovich : man ls
+2024-09-08 16:41:07.118 +0000 ershov_sergei_viktorovich : man nano
+2024-09-08 16:41:16.341 +0000 ershov_sergei_viktorovich : man rm
+2024-09-08 16:42:16.668 +0000 ershov_sergei_viktorovich : ln -s /tmp/new_1.txt /tmp/new_directory
+2024-09-08 16:43:00.619 +0000 ershov_sergei_viktorovich : ln -s /tmp/new_1.txt /positive_tchbology
+2024-09-08 16:43:59.955 +0000 ershov_sergei_viktorovich : ln -l /positive_technology
+2024-09-08 16:51:14.445 +0000 ershov_sergei_viktorovich : ln /tmp/new_1.txt hardlink.txr
+2024-09-08 16:51:18.536 +0000 ershov_sergei_viktorovich : ln /tmp/new_1.txt hardlink.txt
+2024-09-08 16:51:33.877 +0000 ershov_sergei_viktorovich : ls /temp
+2024-09-08 16:51:42.059 +0000 ershov_sergei_viktorovich : ls /tmp
+2024-09-08 16:51:58.426 +0000 ershov_sergei_viktorovich : ls tmp/pt
+2024-09-08 16:52:03.542 +0000 ershov_sergei_viktorovich : ls /tmp/pt
+2024-09-08 16:52:37.298 +0000 ershov_sergei_viktorovich : ls
+2024-09-08 16:52:55.713 +0000 ershov_sergei_viktorovich : ln new_1.txt hardlink.txt
+2024-09-08 16:54:00.113 +0000 ershov_sergei_viktorovich : alias mycommand='cd /usr; ls; cd'
+2024-09-08 16:54:08.307 +0000 ershov_sergei_viktorovich : myvommand
+2024-09-08 16:54:24.679 +0000 ershov_sergei_viktorovich : mycommand
+2024-09-08 16:55:31.140 +0000 ershov_sergei_viktorovich : cat "positive" > pt.txt
+2024-09-08 16:56:48.843 +0000 ershov_sergei_viktorovich : touch positive.txt
+2024-09-08 16:57:05.206 +0000 ershov_sergei_viktorovich : cat "positive" > positve.txt
+2024-09-08 16:57:15.431 +0000 ershov_sergei_viktorovich : ls
+2024-09-08 16:59:22.209 +0000 ershov_sergei_viktorovich : cat "positive" > pt.txt
+2024-09-08 16:59:45.749 +0000 ershov_sergei_viktorovich : cat > pt.txt
+2024-09-08 17:01:58.708 +0000 ershov_sergei_viktorovich : nano script.sh
+2024-09-08 17:02:18.155 +0000 ershov_sergei_viktorovich : chmod +x script.sh
+2024-09-08 17:02:29.404 +0000 ershov_sergei_viktorovich : ./script.sh
+2024-09-08 17:02:46.796 +0000 ershov_sergei_viktorovich : ls
+2024-09-08 17:03:04.198 +0000 ershov_sergei_viktorovich : rm pt.txt
+2024-09-08 17:03:32.850 +0000 ershov_sergei_viktorovich : mkdir empty_directory
+2024-09-08 17:03:41.033 +0000 ershov_sergei_viktorovich : rmdir empty_directory
+2024-09-08 17:04:02.530 +0000 ershov_sergei_viktorovich : rm -r pt
+2024-09-08 17:04:13.806 +0000 ershov_sergei_viktorovich : rmdir -r pt
+2024-09-08 17:04:38.341 +0000 ershov_sergei_viktorovich : rm -r /tmp/pt
+2024-09-08 17:05:40.706 +0000 ershov_sergei_viktorovich : sudo adduser newuser
+2024-09-08 17:07:06.548 +0000 ershov_sergei_viktorovich : find / -name '*.txt' | grep '1.txt'
+2024-09-08 17:08:22.254 +0000 ershov_sergei_viktorovich : ping -c 1 google.com && echo "Success"
+2024-09-08 17:08:54.968 +0000 ershov_sergei_viktorovich : ping -c 1 noex.domain  echo "Success"
+2024-09-08 17:09:10.310 +0000 ershov_sergei_viktorovich : ping -c 1 noex.domain || echo "Success"
+2024-09-08 17:09:22.573 +0000 ershov_sergei_viktorovich : ping -c 1 noex.domain || echo "Failed"
+2024-09-08 17:10:31.013 +0000 ershov_sergei_viktorovich : rm my-repo/ubuntu/command_history.log 
