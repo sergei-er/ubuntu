@@ -189,3 +189,17 @@
 2024-09-10 19:55:10.918 +0300 ershov_sergei_viktorovich : clear
 2024-09-10 19:55:20.263 +0300 ershov_sergei_viktorovich : ifconfig -a
 2024-09-10 19:55:55.513 +0300 ershov_sergei_viktorovich : rm command_history.log 
+2024-09-10 19:56:17.289 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-10 19:56:29.710 +0300 ershov_sergei_viktorovich : gti add command_history.log 
+2024-09-10 19:56:39.027 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 19:56:57.665 +0300 ershov_sergei_viktorovich : git commit -m "ip a"
+2024-09-10 19:57:09.067 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 20:02:03.518 +0300 root : ethtool -s ens33 speed 10 duplex full autoneg off
+2024-09-10 20:02:13.882 +0300 root : ethtool ens33 | grep Speed
+2024-09-10 20:02:21.135 +0300 root : ethtool -i ens33
+2024-09-10 20:02:42.882 +0300 root : ethtool -p ens33 7
+2024-09-10 20:02:52.218 +0300 root : clear
+2024-09-10 20:02:59.468 +0300 root : ethtool “ens33”
+2024-09-10 20:03:12.929 +0300 root : clear
+2024-09-10 20:03:20.187 +0300 root : ethtool ens33
+2024-09-10 20:04:09.912 +0300 ershov_sergei_viktorovich : rm command_history.log 
