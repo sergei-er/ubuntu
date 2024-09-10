@@ -161,3 +161,31 @@
 2024-09-10 19:33:21.767 +0300 ershov_sergei_viktorovich : ifconfig ens33 hw ether 00:00:2d:3a:2a:28
 2024-09-10 19:33:27.972 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 hw ether 00:00:2d:3a:2a:28
 2024-09-10 19:33:44.574 +0300 ershov_sergei_viktorovich : rm command_history.log 
+2024-09-10 19:34:23.959 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-10 19:34:32.269 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 19:34:48.855 +0300 ershov_sergei_viktorovich : git commit -m "ifconfig" 
+2024-09-10 19:34:56.099 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 19:38:51.232 +0300 ershov_sergei_viktorovich : cd /home/ershov_sergei_viktorovich/
+2024-09-10 19:38:57.446 +0300 ershov_sergei_viktorovich : clear
+2024-09-10 19:39:02.620 +0300 ershov_sergei_viktorovich : ifconfig -a
+2024-09-10 19:50:46.779 +0300 ershov_sergei_viktorovich : ip addr show
+2024-09-10 19:51:00.232 +0300 ershov_sergei_viktorovich : ip addr show dev ens33
+2024-09-10 19:51:17.818 +0300 ershov_sergei_viktorovich : sudo ip address add 192.168.121.45/24 dev ens33
+2024-09-10 19:51:33.340 +0300 ershov_sergei_viktorovich : sudo ip address add 192.168.121.241/24 dev ens33
+2024-09-10 19:51:43.688 +0300 ershov_sergei_viktorovich : sudo ip address add 192.168.121.45/24 dev ens33
+2024-09-10 19:52:19.941 +0300 ershov_sergei_viktorovich : sudo ip -4 addr show dev ens33
+2024-09-10 19:52:29.254 +0300 ershov_sergei_viktorovich : sudo ip address del 192.168.121.45/24 dev ens33
+2024-09-10 19:52:49.954 +0300 ershov_sergei_viktorovich : ip link set ens33 down
+2024-09-10 19:52:58.249 +0300 ershov_sergei_viktorovich : sudo ip link set ens33 down
+2024-09-10 19:53:05.506 +0300 ershov_sergei_viktorovich : sudo ip link set ens33 up
+2024-09-10 19:53:15.865 +0300 ershov_sergei_viktorovich : ip route list
+2024-09-10 19:53:37.628 +0300 ershov_sergei_viktorovich : ip route add 192.168.121.0/24 via 192.168.121.1
+2024-09-10 19:53:44.868 +0300 ershov_sergei_viktorovich : sido ip route add 192.168.121.0/24 via 192.168.121.1
+2024-09-10 19:53:52.112 +0300 ershov_sergei_viktorovich : sudo ip route add 192.168.121.0/24 via 192.168.121.1
+2024-09-10 19:54:16.996 +0300 ershov_sergei_viktorovich : sudo route add 192.168.121.0/24 dev ens33
+2024-09-10 19:54:35.668 +0300 ershov_sergei_viktorovich : ip route add default via 192.168.121.1 dev ens33
+2024-09-10 19:54:46.030 +0300 ershov_sergei_viktorovich : sudo ip route add default via 192.168.121.1 dev ens33
+2024-09-10 19:55:06.766 +0300 ershov_sergei_viktorovich : sudo ip route del 192.168.121.0/24 via 192.168.121.1
+2024-09-10 19:55:10.918 +0300 ershov_sergei_viktorovich : clear
+2024-09-10 19:55:20.263 +0300 ershov_sergei_viktorovich : ifconfig -a
+2024-09-10 19:55:55.513 +0300 ershov_sergei_viktorovich : rm command_history.log 
