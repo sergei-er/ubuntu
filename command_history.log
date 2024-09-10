@@ -1,0 +1,128 @@
+2024-09-06 15:52:09.626 +0300 ershov_sergei_viktorovich: Сгенерирован новый UUID: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
+2024-09-06 15:52:09.627 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-06 15:52:37.555 +0300 ershov_sergei_viktorovich : cd /var/log/command_history.log
+2024-09-06 15:53:03.348 +0300 ershov_sergei_viktorovich : ls
+2024-09-06 15:53:19.903 +0300 ershov_sergei_viktorovich : cd ../var/log/command_history.log
+2024-09-06 15:53:24.027 +0300 ershov_sergei_viktorovich : cd ..var/log/command_history.log
+2024-09-06 15:57:20.280 +0300 ershov_sergei_viktorovich : ./bash_history
+2024-09-06 15:57:48.222 +0300 ershov_sergei_viktorovich : [200~locate command_history.log
+2024-09-06 15:57:58.515 +0300 ershov_sergei_viktorovich : locate command_history.log
+2024-09-06 15:58:10.882 +0300 ershov_sergei_viktorovich : sudo locate command_history.log
+2024-09-06 15:58:48.974 +0300 ershov_sergei_viktorovich : sudo apt install plocate
+2024-09-06 15:59:51.602 +0300 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
+2024-09-06 15:59:51.604 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-06 16:00:11.226 +0300 ershov_sergei_viktorovich : sudo chmod +x compiled_script.sh.x
+2024-09-06 16:00:23.579 +0300 ershov_sergei_viktorovich : nohup sudo ./compiled_script.sh.x &
+2024-09-06 16:00:23.596 +0300 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
+2024-09-06 16:00:23.598 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-06 16:00:49.373 +0300 ershov_sergei_viktorovich : ls
+2024-09-06 16:01:49.101 +0300 ershov_sergei_viktorovich : sudo nano nohup.out
+2024-09-06 16:01:54.255 +0300 ershov_sergei_viktorovich : ipconfig 
+2024-09-06 16:01:58.376 +0300 ershov_sergei_viktorovich : ifconfig
+2024-09-06 16:02:09.706 +0300 ershov_sergei_viktorovich : ifconfig 
+2024-09-06 16:02:24.139 +0300 ershov_sergei_viktorovich : sudo apt istall net-tools
+2024-09-06 16:02:36.493 +0300 ershov_sergei_viktorovich : sudo apt install net-tools
+2024-09-06 16:02:39.587 +0300 ershov_sergei_viktorovich : ipconfig
+2024-09-06 16:02:49.907 +0300 ershov_sergei_viktorovich : if config 
+2024-09-06 16:02:52.996 +0300 ershov_sergei_viktorovich : ifconfig 
+2024-09-06 16:03:23.911 +0300 ershov_sergei_viktorovich : [200~sudo nano nohup.out
+2024-09-06 16:03:26.998 +0300 ershov_sergei_viktorovich : ~sudo nano nohup.out
+2024-09-06 16:06:47.985 +0300 ershov_sergei_viktorovich : sudo nano nohup.out
+2024-09-06 18:53:29.075 +0300 ershov_sergei_viktorovich : ls
+2024-09-06 18:53:45.577 +0300 ershov_sergei_viktorovich : cd Desktop/
+2024-09-06 18:54:05.197 +0300 ershov_sergei_viktorovich : mkdir my-repo
+2024-09-06 18:54:13.450 +0300 ershov_sergei_viktorovich : cd my-repo 
+2024-09-06 18:54:20.669 +0300 ershov_sergei_viktorovich : git init
+2024-09-06 18:54:51.621 +0300 ershov_sergei_viktorovich : sudo apt install git
+2024-09-06 18:55:21.557 +0300 ershov_sergei_viktorovich : git config --global user.name "sergei"
+2024-09-06 18:55:59.749 +0300 ershov_sergei_viktorovich : git config --global user.email "codemathphyinformation@gmail.com"
+2024-09-06 18:56:19.361 +0300 ershov_sergei_viktorovich : git add .
+2024-09-06 18:57:30.581 +0300 ershov_sergei_viktorovich : echo "zalupa" > zalupa
+2024-09-06 18:57:32.647 +0300 ershov_sergei_viktorovich : ls
+2024-09-06 18:58:07.742 +0300 ershov_sergei_viktorovich : git add zalupf
+2024-09-06 18:58:11.879 +0300 ershov_sergei_viktorovich : git add zalupa
+2024-09-06 18:59:02.446 +0300 ershov_sergei_viktorovich : git config --global user.name "gray"
+2024-09-06 18:59:30.314 +0300 ershov_sergei_viktorovich : git config --global user.email "codemathphyinformation@gmail.com"
+2024-09-06 18:59:51.986 +0300 ershov_sergei_viktorovich : git add zalupa
+2024-09-06 19:00:10.560 +0300 ershov_sergei_viktorovich : git init
+2024-09-06 19:00:25.004 +0300 ershov_sergei_viktorovich : git add zalupa
+2024-09-06 19:00:54.946 +0300 ershov_sergei_viktorovich : git remote add origin https://github.com/sergei-er/ubuntu.git
+2024-09-06 19:01:13.530 +0300 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 19:02:13.441 +0300 ershov_sergei_viktorovich : ssh-keygen -t rsa -b 4096 -C "codemathphyinformation@gmail.com"
+2024-09-06 19:02:35.130 +0300 ershov_sergei_viktorovich : cat ~/.ssh/id_rsa.pub
+2024-09-06 19:05:14.102 +0300 ershov_sergei_viktorovich : git remote set-url origin git@github.com:sergei-er/ubuntu.git
+2024-09-06 19:05:33.718 +0300 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 19:06:07.809 +0300 ershov_sergei_viktorovich : git remote set-url origin https://github.com/sergei-er/ubuntu.git
+2024-09-06 19:06:18.140 +0300 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 19:07:17.018 +0300 ershov_sergei_viktorovich : ls
+2024-09-06 19:07:22.179 +0300 ershov_sergei_viktorovich : git branch
+2024-09-06 19:07:57.302 +0300 ershov_sergei_viktorovich : git remote -v
+2024-09-06 19:08:29.309 +0300 ershov_sergei_viktorovich : git remote show origin
+2024-09-06 19:09:41.602 +0300 ershov_sergei_viktorovich : git checkout -b master
+2024-09-06 19:09:56.080 +0300 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 19:12:01.070 +0300 ershov_sergei_viktorovich : git branch
+2024-09-06 19:12:12.453 +0300 ershov_sergei_viktorovich : git branch -r
+2024-09-06 19:12:38.292 +0300 ershov_sergei_viktorovich : git checkout -b master
+2024-09-06 19:12:46.560 +0300 ershov_sergei_viktorovich : git branch
+2024-09-06 19:13:06.207 +0300 ershov_sergei_viktorovich : echo "Initial commit" > README.md
+2024-09-06 19:13:12.405 +0300 ershov_sergei_viktorovich : git add README.md
+2024-09-06 19:13:18.606 +0300 ershov_sergei_viktorovich : git commit -m "Initial commit"
+2024-09-06 19:13:45.472 +0300 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 19:15:16.427 +0300 ershov_sergei_viktorovich : ssh -T git@github.com:sergei-er/ubuntu.git
+2024-09-06 19:15:37.111 +0300 ershov_sergei_viktorovich : ssh git@github.com:sergei-er/ubuntu.git
+2024-09-06 19:16:27.783 +0300 ershov_sergei_viktorovich : git remote set-url origin git@github.com:sergei-er/ubuntu.git
+2024-09-06 19:16:39.159 +0300 ershov_sergei_viktorovich : git push
+2024-09-06 19:17:59.799 +0300 ershov_sergei_viktorovich : ssh -T git@github.com:sergei-er/ubuntu.git
+2024-09-06 19:19:02.795 +0300 ershov_sergei_viktorovich : git remote set-url origin git@github.com:sergei-er/ubuntu.git
+2024-09-06 19:19:11.061 +0300 ershov_sergei_viktorovich : git remote -v
+2024-09-06 19:19:32.765 +0300 ershov_sergei_viktorovich : ssh -T git@github.com
+2024-09-06 19:20:17.173 +0300 ershov_sergei_viktorovich : git push
+2024-09-06 19:20:40.923 +0300 ershov_sergei_viktorovich : ssh -T git@github.com
+2024-09-06 19:21:12.951 +0300 ershov_sergei_viktorovich : chmod 600 ~/.ssh/id_rsa
+2024-09-06 19:22:00.471 +0300 ershov_sergei_viktorovich : git remote add origin git@github.com:sergei-er/ubuntu.git
+2024-09-06 19:22:15.988 +0300 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 19:23:26.266 +0300 ershov_sergei_viktorovich : git pull origin master
+2024-09-06 19:24:01.386 +0300 ershov_sergei_viktorovich : git pull
+2024-09-06 19:24:22.050 +0300 ershov_sergei_viktorovich : git commit
+2024-09-06 19:24:34.454 +0300 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 19:24:48.943 +0300 ershov_sergei_viktorovich : sudo -i
+2024-09-10 18:56:02.299 +0300 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
+2024-09-10 18:56:02.301 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-10 18:57:08.650 +0300 ershov_sergei_viktorovich : sudo nano /var/log/command_history.log
+2024-09-10 18:57:20.042 +0300 ershov_sergei_viktorovich : ping -help
+2024-09-10 18:57:32.495 +0300 ershov_sergei_viktorovich : ping google.com
+2024-09-10 18:57:42.867 +0300 ershov_sergei_viktorovich : ping google.com -t
+2024-09-10 18:57:57.347 +0300 ershov_sergei_viktorovich : ping -c 3 google.com
+2024-09-10 18:58:51.167 +0300 ershov_sergei_viktorovich : cat /etc/resolv.conf
+2024-09-10 18:59:03.573 +0300 ershov_sergei_viktorovich : sudo cat /etc/resolv.conf
+2024-09-10 18:59:11.859 +0300 ershov_sergei_viktorovich : clear
+2024-09-10 18:59:20.146 +0300 ershov_sergei_viktorovich : sudo cat /etc/resolv.conf
+2024-09-10 19:00:11.952 +0300 ershov_sergei_viktorovich : ifconfig 
+2024-09-10 19:00:29.566 +0300 ershov_sergei_viktorovich : ssh ershov_sergei_viktorovich@192.168.30.130
+2024-09-10 19:00:52.339 +0300 ershov_sergei_viktorovich : ping google.com
+2024-09-10 19:04:38.600 +0300 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
+2024-09-10 19:04:38.601 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-10 19:04:56.287 +0300 ershov_sergei_viktorovich : ping -help
+2024-09-10 19:05:11.818 +0300 ershov_sergei_viktorovich : ping googel.com
+2024-09-10 19:05:28.389 +0300 ershov_sergei_viktorovich : ping google.com -t
+2024-09-10 19:05:44.953 +0300 ershov_sergei_viktorovich : ping -c 3 google.com
+2024-09-10 19:06:21.192 +0300 ershov_sergei_viktorovich : ping -i 5 192.168.30.130
+2024-09-10 19:06:46.065 +0300 ershov_sergei_viktorovich : sudo -i 0.2 192.168.30.130
+2024-09-10 19:06:57.476 +0300 ershov_sergei_viktorovich : sudo ping -i 0.2 192.168.30.130
+2024-09-10 19:07:25.459 +0300 ershov_sergei_viktorovich : ping -f 192.168.30.130
+2024-09-10 19:08:16.198 +0300 ershov_sergei_viktorovich : ping -a 192.168.30.130
+2024-09-10 19:08:37.966 +0300 ershov_sergei_viktorovich : $ ping -c 5 -q 192.168.30.130
+2024-09-10 19:09:11.163 +0300 ershov_sergei_viktorovich : cd my-repo/ubuntu 
+2024-09-10 19:09:19.448 +0300 ershov_sergei_viktorovich : ls
+2024-09-10 19:09:45.367 +0300 ershov_sergei_viktorovich : cd /home/ershov_sergei_viktorovich/
+2024-09-10 19:09:46.405 +0300 ershov_sergei_viktorovich : ls
+2024-09-10 19:10:06.129 +0300 ershov_sergei_viktorovich : cd Desktop/
+2024-09-10 19:10:07.166 +0300 ershov_sergei_viktorovich : la
+2024-09-10 19:10:09.251 +0300 ershov_sergei_viktorovich : ls
+2024-09-10 19:10:29.970 +0300 ershov_sergei_viktorovich : cd /var/log
+2024-09-10 19:10:32.042 +0300 ershov_sergei_viktorovich : ls
+2024-09-10 19:10:42.416 +0300 ershov_sergei_viktorovich : sudo git init
+2024-09-10 19:11:15.592 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 19:11:30.114 +0300 ershov_sergei_viktorovich : sudo git add command_history.log
+2024-09-10 19:11:53.996 +0300 ershov_sergei_viktorovich : sudo git push -u origin master 
+2024-09-10 19:12:59.411 +0300 ershov_sergei_viktorovich : sudo ssh -T git@github
