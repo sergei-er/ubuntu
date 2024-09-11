@@ -198,3 +198,23 @@
 2024-09-11 19:04:34.694 +0300 ershov_sergei_viktorovich : help cd
 2024-09-11 19:04:48.176 +0300 ershov_sergei_viktorovich : ls
 2024-09-11 19:05:01.647 +0300 ershov_sergei_viktorovich : rm command_history.log
+2024-09-11 19:05:17.195 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-11 19:05:25.509 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-11 19:05:47.333 +0300 ershov_sergei_viktorovich : git commit -m "1.4.11"
+2024-09-11 19:05:53.564 +0300 ershov_sergei_viktorovich : git push
+2024-09-11 19:10:14.780 +0300 ershov_sergei_viktorovich : help ping
+2024-09-11 19:10:51.063 +0300 ershov_sergei_viktorovich : man ping
+2024-09-11 19:11:18.026 +0300 ershov_sergei_viktorovich : help useradd
+2024-09-11 19:11:31.480 +0300 ershov_sergei_viktorovich : man useradd
+2024-09-11 19:13:30.803 +0300 ershov_sergei_viktorovich : useradd sergei
+2024-09-11 19:13:43.267 +0300 ershov_sergei_viktorovich : sudo useradd sergei
+2024-09-11 19:14:02.960 +0300 ershov_sergei_viktorovich : man chmod
+2024-09-11 19:17:06.690 +0300 ershov_sergei_viktorovich : sudo chmode 755/home/Documents
+2024-09-11 19:17:17.101 +0300 ershov_sergei_viktorovich : sudo chmod 755/home/Documents
+2024-09-11 19:17:28.509 +0300 ershov_sergei_viktorovich : sudo chmod 755 /home/Documents
+2024-09-11 19:17:52.392 +0300 ershov_sergei_viktorovich : sudo chmod 755 /home/ershov_sergei_viktorovich/Documents/
+2024-09-11 19:18:19.365 +0300 ershov_sergei_viktorovich : man tar
+2024-09-11 19:19:26.819 +0300 ershov_sergei_viktorovich : tar -cvf backup.tar /home/user/documents
+2024-09-11 19:19:56.924 +0300 ershov_sergei_viktorovich : tar -cvf backup.tar /home/ershov_sergei_viktorovich/Documents
+2024-09-11 19:20:23.952 +0300 ershov_sergei_viktorovich : tar -xvf backup.tar
+2024-09-11 19:21:40.673 +0300 ershov_sergei_viktorovich : rm command_history.log
