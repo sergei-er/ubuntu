@@ -86,6 +86,7 @@
 2024-09-06 19:24:22.050 +0300 ershov_sergei_viktorovich : git commit
 2024-09-06 19:24:34.454 +0300 ershov_sergei_viktorovich : git push -u origin master
 2024-09-06 19:24:48.943 +0300 ershov_sergei_viktorovich : sudo -i
+<<<<<<< HEAD
 2024-09-11 17:33:48.475 +0300 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
 2024-09-11 17:33:48.477 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
 2024-09-11 17:33:53.834 +0300 ershov_sergei_viktorovich : ls
@@ -97,3 +98,136 @@
 2024-09-11 17:39:46.529 +0300 ershov_sergei_viktorovich : sudo hping3 -c 10000 --icmp --flood --rand-source 192.168.127.185
 2024-09-11 17:40:10.622 +0300 ershov_sergei_viktorovich : sudo hping3 -c 10000 --icmp --flood --rand-source 192.168.30.133
 2024-09-11 17:42:07.635 +0300 ershov_sergei_viktorovich : sudo hping3 -c 4 -S -p 22 192.168.30.133
+=======
+2024-09-10 18:56:02.299 +0300 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
+2024-09-10 18:56:02.301 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-10 18:57:08.650 +0300 ershov_sergei_viktorovich : sudo nano /var/log/command_history.log
+2024-09-10 18:57:20.042 +0300 ershov_sergei_viktorovich : ping -help
+2024-09-10 18:57:32.495 +0300 ershov_sergei_viktorovich : ping google.com
+2024-09-10 18:57:42.867 +0300 ershov_sergei_viktorovich : ping google.com -t
+2024-09-10 18:57:57.347 +0300 ershov_sergei_viktorovich : ping -c 3 google.com
+2024-09-10 18:58:51.167 +0300 ershov_sergei_viktorovich : cat /etc/resolv.conf
+2024-09-10 18:59:03.573 +0300 ershov_sergei_viktorovich : sudo cat /etc/resolv.conf
+2024-09-10 18:59:11.859 +0300 ershov_sergei_viktorovich : clear
+2024-09-10 18:59:20.146 +0300 ershov_sergei_viktorovich : sudo cat /etc/resolv.conf
+2024-09-10 19:00:11.952 +0300 ershov_sergei_viktorovich : ifconfig 
+2024-09-10 19:00:29.566 +0300 ershov_sergei_viktorovich : ssh ershov_sergei_viktorovich@192.168.30.130
+2024-09-10 19:00:52.339 +0300 ershov_sergei_viktorovich : ping google.com
+2024-09-10 19:04:38.600 +0300 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
+2024-09-10 19:04:38.601 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-10 19:04:56.287 +0300 ershov_sergei_viktorovich : ping -help
+2024-09-10 19:05:11.818 +0300 ershov_sergei_viktorovich : ping googel.com
+2024-09-10 19:05:28.389 +0300 ershov_sergei_viktorovich : ping google.com -t
+2024-09-10 19:05:44.953 +0300 ershov_sergei_viktorovich : ping -c 3 google.com
+2024-09-10 19:06:21.192 +0300 ershov_sergei_viktorovich : ping -i 5 192.168.30.130
+2024-09-10 19:06:46.065 +0300 ershov_sergei_viktorovich : sudo -i 0.2 192.168.30.130
+2024-09-10 19:06:57.476 +0300 ershov_sergei_viktorovich : sudo ping -i 0.2 192.168.30.130
+2024-09-10 19:07:25.459 +0300 ershov_sergei_viktorovich : ping -f 192.168.30.130
+2024-09-10 19:08:16.198 +0300 ershov_sergei_viktorovich : ping -a 192.168.30.130
+2024-09-10 19:08:37.966 +0300 ershov_sergei_viktorovich : $ ping -c 5 -q 192.168.30.130
+2024-09-10 19:09:11.163 +0300 ershov_sergei_viktorovich : cd my-repo/ubuntu 
+2024-09-10 19:09:19.448 +0300 ershov_sergei_viktorovich : ls
+2024-09-10 19:09:45.367 +0300 ershov_sergei_viktorovich : cd /home/ershov_sergei_viktorovich/
+2024-09-10 19:09:46.405 +0300 ershov_sergei_viktorovich : ls
+2024-09-10 19:10:06.129 +0300 ershov_sergei_viktorovich : cd Desktop/
+2024-09-10 19:10:07.166 +0300 ershov_sergei_viktorovich : la
+2024-09-10 19:10:09.251 +0300 ershov_sergei_viktorovich : ls
+2024-09-10 19:10:29.970 +0300 ershov_sergei_viktorovich : cd /var/log
+2024-09-10 19:10:32.042 +0300 ershov_sergei_viktorovich : ls
+2024-09-10 19:10:42.416 +0300 ershov_sergei_viktorovich : sudo git init
+2024-09-10 19:11:15.592 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 19:11:30.114 +0300 ershov_sergei_viktorovich : sudo git add command_history.log
+2024-09-10 19:11:53.996 +0300 ershov_sergei_viktorovich : sudo git push -u origin master 
+2024-09-10 19:12:59.411 +0300 ershov_sergei_viktorovich : sudo ssh -T git@github
+2024-09-10 19:19:16.498 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-10 19:19:29.977 +0300 ershov_sergei_viktorovich : git init 
+2024-09-10 19:19:46.582 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 19:20:21.811 +0300 ershov_sergei_viktorovich : ssh -T git@gihub.com
+2024-09-10 19:20:48.725 +0300 ershov_sergei_viktorovich : git remote set-url origin git@github.com:sergei-er/ubuntu.git
+2024-09-10 19:20:57.008 +0300 ershov_sergei_viktorovich : git remote -v
+2024-09-10 19:21:12.589 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 19:21:24.008 +0300 ershov_sergei_viktorovich : git commit -m "ping"
+2024-09-10 19:21:35.438 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 19:21:57.187 +0300 ershov_sergei_viktorovich : git push -u origin master
+2024-09-10 19:22:35.538 +0300 ershov_sergei_viktorovich : git pull origin master
+2024-09-10 19:22:55.227 +0300 ershov_sergei_viktorovich : git fetch origin
+2024-09-10 19:22:55.228 +0300 ershov_sergei_viktorovich : git merge origin/master
+2024-09-10 19:23:14.936 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 19:23:31.521 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 19:23:45.010 +0300 ershov_sergei_viktorovich : git commit -m "ping"
+2024-09-10 19:23:52.293 +0300 ershov_sergei_viktorovich : git push 
+2024-09-10 19:27:21.727 +0300 ershov_sergei_viktorovich : sudo chmod +x compiled_script.sh.x
+2024-09-10 19:27:21.729 +0300 ershov_sergei_viktorovich : nohup sudo ./compiled_script.sh.x &
+2024-09-10 19:29:29.321 +0300 ershov_sergei_viktorovich : ifconfig -a
+2024-09-10 19:29:37.639 +0300 ershov_sergei_viktorovich : ifconfig ens33
+2024-09-10 19:30:34.677 +0300 ershov_sergei_viktorovich : ifconfig ens33 192.168.0.101 netmask 255.255.0.0
+2024-09-10 19:30:40.907 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 192.168.0.101 netmask 255.255.0.0
+2024-09-10 19:31:27.642 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33:0 192.168.0.102 netmask 255.255.0.0
+2024-09-10 19:31:43.216 +0300 ershov_sergei_viktorovich : ifconfig ens33 down
+2024-09-10 19:31:49.434 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 down
+2024-09-10 19:31:54.613 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 up
+2024-09-10 19:32:16.404 +0300 ershov_sergei_viktorovich : ifconfig ens33 promisc
+2024-09-10 19:32:35.080 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 promisc
+2024-09-10 19:32:39.240 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 -promisc
+2024-09-10 19:32:55.845 +0300 ershov_sergei_viktorovich : sudo ifconfig eth0 mtu 500
+2024-09-10 19:33:06.242 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 mtu 500
+2024-09-10 19:33:21.767 +0300 ershov_sergei_viktorovich : ifconfig ens33 hw ether 00:00:2d:3a:2a:28
+2024-09-10 19:33:27.972 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 hw ether 00:00:2d:3a:2a:28
+2024-09-10 19:33:44.574 +0300 ershov_sergei_viktorovich : rm command_history.log 
+2024-09-10 19:34:23.959 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-10 19:34:32.269 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 19:34:48.855 +0300 ershov_sergei_viktorovich : git commit -m "ifconfig" 
+2024-09-10 19:34:56.099 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 19:38:51.232 +0300 ershov_sergei_viktorovich : cd /home/ershov_sergei_viktorovich/
+2024-09-10 19:38:57.446 +0300 ershov_sergei_viktorovich : clear
+2024-09-10 19:39:02.620 +0300 ershov_sergei_viktorovich : ifconfig -a
+2024-09-10 19:50:46.779 +0300 ershov_sergei_viktorovich : ip addr show
+2024-09-10 19:51:00.232 +0300 ershov_sergei_viktorovich : ip addr show dev ens33
+2024-09-10 19:51:17.818 +0300 ershov_sergei_viktorovich : sudo ip address add 192.168.121.45/24 dev ens33
+2024-09-10 19:51:33.340 +0300 ershov_sergei_viktorovich : sudo ip address add 192.168.121.241/24 dev ens33
+2024-09-10 19:51:43.688 +0300 ershov_sergei_viktorovich : sudo ip address add 192.168.121.45/24 dev ens33
+2024-09-10 19:52:19.941 +0300 ershov_sergei_viktorovich : sudo ip -4 addr show dev ens33
+2024-09-10 19:52:29.254 +0300 ershov_sergei_viktorovich : sudo ip address del 192.168.121.45/24 dev ens33
+2024-09-10 19:52:49.954 +0300 ershov_sergei_viktorovich : ip link set ens33 down
+2024-09-10 19:52:58.249 +0300 ershov_sergei_viktorovich : sudo ip link set ens33 down
+2024-09-10 19:53:05.506 +0300 ershov_sergei_viktorovich : sudo ip link set ens33 up
+2024-09-10 19:53:15.865 +0300 ershov_sergei_viktorovich : ip route list
+2024-09-10 19:53:37.628 +0300 ershov_sergei_viktorovich : ip route add 192.168.121.0/24 via 192.168.121.1
+2024-09-10 19:53:44.868 +0300 ershov_sergei_viktorovich : sido ip route add 192.168.121.0/24 via 192.168.121.1
+2024-09-10 19:53:52.112 +0300 ershov_sergei_viktorovich : sudo ip route add 192.168.121.0/24 via 192.168.121.1
+2024-09-10 19:54:16.996 +0300 ershov_sergei_viktorovich : sudo route add 192.168.121.0/24 dev ens33
+2024-09-10 19:54:35.668 +0300 ershov_sergei_viktorovich : ip route add default via 192.168.121.1 dev ens33
+2024-09-10 19:54:46.030 +0300 ershov_sergei_viktorovich : sudo ip route add default via 192.168.121.1 dev ens33
+2024-09-10 19:55:06.766 +0300 ershov_sergei_viktorovich : sudo ip route del 192.168.121.0/24 via 192.168.121.1
+2024-09-10 19:55:10.918 +0300 ershov_sergei_viktorovich : clear
+2024-09-10 19:55:20.263 +0300 ershov_sergei_viktorovich : ifconfig -a
+2024-09-10 19:55:55.513 +0300 ershov_sergei_viktorovich : rm command_history.log 
+2024-09-10 19:56:17.289 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-10 19:56:29.710 +0300 ershov_sergei_viktorovich : gti add command_history.log 
+2024-09-10 19:56:39.027 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 19:56:57.665 +0300 ershov_sergei_viktorovich : git commit -m "ip a"
+2024-09-10 19:57:09.067 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 20:02:03.518 +0300 root : ethtool -s ens33 speed 10 duplex full autoneg off
+2024-09-10 20:02:13.882 +0300 root : ethtool ens33 | grep Speed
+2024-09-10 20:02:21.135 +0300 root : ethtool -i ens33
+2024-09-10 20:02:42.882 +0300 root : ethtool -p ens33 7
+2024-09-10 20:02:52.218 +0300 root : clear
+2024-09-10 20:02:59.468 +0300 root : ethtool “ens33”
+2024-09-10 20:03:12.929 +0300 root : clear
+2024-09-10 20:03:20.187 +0300 root : ethtool ens33
+2024-09-10 20:04:09.912 +0300 ershov_sergei_viktorovich : rm command_history.log 
+2024-09-10 20:04:15.115 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-10 20:04:33.802 +0300 ershov_sergei_viktorovich : git commit -m "ethtool"
+2024-09-10 20:04:50.408 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 20:06:36.004 +0300 ershov_sergei_viktorovich : nano command_history.log 
+2024-09-10 20:06:45.356 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-10 20:06:50.535 +0300 ershov_sergei_viktorovich : git commit -m "ethtool"
+2024-09-10 20:06:56.758 +0300 ershov_sergei_viktorovich : git push
+2024-09-10 20:07:51.734 +0300 ershov_sergei_viktorovich : sudo -i
+2024-09-10 20:08:04.156 +0300 ershov_sergei_viktorovich : rm command_history.log 
+2024-09-10 20:08:24.878 +0300 ershov_sergei_viktorovich : ethtool -s ens33 speed 10 duplex full autoneg off
+2024-09-10 20:08:38.340 +0300 ershov_sergei_viktorovich : sudo ethtool -s ens33 speed 10 duplex full autoneg off
+2024-09-10 20:08:47.662 +0300 ershov_sergei_viktorovich : sudo ethtool ens33 | grep Speed
+2024-09-10 20:08:59.060 +0300 ershov_sergei_viktorovich : sudo ethtool -i ens33
+2024-09-10 20:09:15.640 +0300 ershov_sergei_viktorovich : sudo ethtool -p ens33 7
+>>>>>>> origin/master
