@@ -172,3 +172,29 @@
 2024-09-11 18:42:15.505 +0300 ershov_sergei_viktorovich : source ~/.bashrc
 2024-09-11 18:42:43.448 +0300 ershov_sergei_viktorovich : echo $HISTSIZE
 2024-09-11 18:43:01.048 +0300 ershov_sergei_viktorovich : HISTFILESIZE=15000
+2024-09-11 18:44:23.932 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-11 18:44:36.370 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-11 18:44:52.941 +0300 ershov_sergei_viktorovich : git commit -m "1.4.10"
+2024-09-11 18:45:04.324 +0300 ershov_sergei_viktorovich : git push 
+2024-09-11 18:55:02.342 +0300 ershov_sergei_viktorovich : whatis intro
+2024-09-11 18:55:10.628 +0300 ershov_sergei_viktorovich : whatis whatis
+2024-09-11 18:55:24.113 +0300 ershov_sergei_viktorovich : whatis apropos
+2024-09-11 18:55:31.359 +0300 ershov_sergei_viktorovich : whatis nan
+2024-09-11 18:55:47.924 +0300 ershov_sergei_viktorovich : man -w man
+2024-09-11 18:56:00.389 +0300 ershov_sergei_viktorovich : file /usr/share/man/m/manl/man.l.gz
+2024-09-11 18:56:13.866 +0300 ershov_sergei_viktorovich : file -z /usr/share/man/ru/manl/man.l.gz
+2024-09-11 18:56:19.048 +0300 ershov_sergei_viktorovich : whatis file
+2024-09-11 19:02:08.449 +0300 ershov_sergei_viktorovich : man -t man > man.print.1
+2024-09-11 19:02:15.722 +0300 ershov_sergei_viktorovich : file man.print.1
+2024-09-11 19:02:31.283 +0300 ershov_sergei_viktorovich : man -T lz4 man > man.print.2
+2024-09-11 19:02:48.884 +0300 ershov_sergei_viktorovich : file man.print.2
+2024-09-11 19:03:00.295 +0300 ershov_sergei_viktorovich : man -thtml man > man.html
+2024-09-11 19:03:05.480 +0300 ershov_sergei_viktorovich : file man.html
+2024-09-11 19:03:16.902 +0300 ershov_sergei_viktorovich : man
+2024-09-11 19:03:26.227 +0300 ershov_sergei_viktorovich : man --help
+2024-09-11 19:04:01.496 +0300 ershov_sergei_viktorovich : man nslookup
+2024-09-11 19:04:13.964 +0300 ershov_sergei_viktorovich : help -d help
+2024-09-11 19:04:25.363 +0300 ershov_sergei_viktorovich : help -d cd
+2024-09-11 19:04:34.694 +0300 ershov_sergei_viktorovich : help cd
+2024-09-11 19:04:48.176 +0300 ershov_sergei_viktorovich : ls
+2024-09-11 19:05:01.647 +0300 ershov_sergei_viktorovich : rm command_history.log
