@@ -136,3 +136,39 @@
 2024-09-11 18:29:30.862 +0300 ershov_sergei_viktorovich : traceroute to mysystem.university.edu (129.2.130.22), 30 hops max
 2024-09-11 18:29:43.303 +0300 ershov_sergei_viktorovich : ls
 2024-09-11 18:29:53.652 +0300 ershov_sergei_viktorovich : rm command_history.log 
+2024-09-11 18:30:35.121 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-11 18:30:46.527 +0300 ershov_sergei_viktorovich : gtt add command_history.log 
+2024-09-11 18:30:54.818 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-11 18:31:09.324 +0300 ershov_sergei_viktorovich : git commit -m "1.4.9"
+2024-09-11 18:31:16.581 +0300 ershov_sergei_viktorovich : git push 
+2024-09-11 18:34:26.287 +0300 ershov_sergei_viktorovich : ls /etc/network/interfaces
+2024-09-11 18:35:33.594 +0300 ershov_sergei_viktorovich : history
+2024-09-11 18:35:52.241 +0300 ershov_sergei_viktorovich : history 50
+2024-09-11 18:36:48.141 +0300 ershov_sergei_viktorovich : sudo history
+2024-09-11 18:37:03.668 +0300 ershov_sergei_viktorovich : sudo apt install historu
+2024-09-11 18:37:06.781 +0300 ershov_sergei_viktorovich : sudo apt install history
+2024-09-11 18:37:16.100 +0300 ershov_sergei_viktorovich : history 
+2024-09-11 18:37:30.590 +0300 ershov_sergei_viktorovich : history
+2024-09-11 18:39:32.844 +0300 ershov_sergei_viktorovich : nano /home/ershov_sergei_viktorovich/.bashrc
+2024-09-11 18:39:34.922 +0300 ershov_sergei_viktorovich : slslsls
+2024-09-11 18:39:39.068 +0300 ershov_sergei_viktorovich : s;sd'
+2024-09-11 18:39:39.069 +0300 ershov_sergei_viktorovich : sdfks
+2024-09-11 18:39:39.071 +0300 ershov_sergei_viktorovich : f
+2024-09-11 18:39:44.247 +0300 ershov_sergei_viktorovich : history
+2024-09-11 18:40:19.448 +0300 ershov_sergei_viktorovich : nano /home/ershov_sergei_viktorovich/.bashrc
+2024-09-11 18:40:21.517 +0300 ershov_sergei_viktorovich : sdfjkhla
+2024-09-11 18:40:21.518 +0300 ershov_sergei_viktorovich : asdf
+2024-09-11 18:40:25.665 +0300 ershov_sergei_viktorovich : histori
+2024-09-11 18:40:30.850 +0300 ershov_sergei_viktorovich : history
+2024-09-11 18:40:33.954 +0300 ershov_sergei_viktorovich : ls
+2024-09-11 18:40:37.071 +0300 ershov_sergei_viktorovich : histori
+2024-09-11 18:40:40.183 +0300 ershov_sergei_viktorovich : history
+2024-09-11 18:40:48.477 +0300 ershov_sergei_viktorovich : source ~/.bashrc
+2024-09-11 18:40:53.657 +0300 ershov_sergei_viktorovich : history
+2024-09-11 18:40:55.733 +0300 ershov_sergei_viktorovich : ls
+2024-09-11 18:40:59.880 +0300 ershov_sergei_viktorovich : history
+2024-09-11 18:41:38.225 +0300 ershov_sergei_viktorovich : ls /etc/network/
+2024-09-11 18:42:07.223 +0300 ershov_sergei_viktorovich : history 50
+2024-09-11 18:42:15.505 +0300 ershov_sergei_viktorovich : source ~/.bashrc
+2024-09-11 18:42:43.448 +0300 ershov_sergei_viktorovich : echo $HISTSIZE
+2024-09-11 18:43:01.048 +0300 ershov_sergei_viktorovich : HISTFILESIZE=15000
