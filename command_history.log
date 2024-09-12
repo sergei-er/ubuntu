@@ -218,3 +218,75 @@
 2024-09-11 19:19:56.924 +0300 ershov_sergei_viktorovich : tar -cvf backup.tar /home/ershov_sergei_viktorovich/Documents
 2024-09-11 19:20:23.952 +0300 ershov_sergei_viktorovich : tar -xvf backup.tar
 2024-09-11 19:21:40.673 +0300 ershov_sergei_viktorovich : rm command_history.log
+2024-09-11 19:21:54.156 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-11 19:22:01.433 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-11 19:22:26.366 +0300 ershov_sergei_viktorovich : git commit -m "1.4.12"
+2024-09-11 19:22:34.651 +0300 ershov_sergei_viktorovich : git push
+2024-09-12 16:45:44.602 +0300 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: U8QCED2LQegj7XbQzHzHG0uhY6CzxcEzh++8iQaRse9PJ/W2qbquLANkvg8l/wVn5UyekGeouhljMB8kOg9DyNMl6bIdKAfTzwr+gym2H0f8vsECR1yhNB6j2ClBZt9nOyreEM+1n7LCq10r8lnTcdesRfFysV5gdMU6Umqm9+DmGNoGdMA2mmCISijGEZ9EsILgN/Ws/hrvzwGzUV7JC1OCex5x19go/4BhoiTpgn16RcI9rhl0t/2wZ9tokIxRMCpVkIIlzE5cUN2L+rGZp7oIdn7tLYO0H4B9abz9AMpH6nKUu6BJTKhn+/glzzjVAYX7me3JvW30ZNNXK1tZZA==
+2024-09-12 16:45:44.603 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-12 16:50:38.812 +0300 ershov_sergei_viktorovich : ls
+2024-09-12 16:51:17.098 +0300 ershov_sergei_viktorovich : sudo nano /var/log/command_history.log 
+2024-09-12 16:51:48.157 +0300 ershov_sergei_viktorovich : sudo ifconfig
+2024-09-12 16:51:58.506 +0300 ershov_sergei_viktorovich : ifconfig -a
+2024-09-12 16:52:20.264 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 192.168.56.5 netmask 255.255.255.0 
+2024-09-12 16:52:31.650 +0300 ershov_sergei_viktorovich : ifconfig 
+2024-09-12 16:52:59.629 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 down
+2024-09-12 16:53:13.094 +0300 ershov_sergei_viktorovich : sudo ifconfig ens33 up 
+2024-09-12 16:53:38.980 +0300 ershov_sergei_viktorovich : ping ya.ru
+2024-09-12 16:53:53.489 +0300 ershov_sergei_viktorovich : ping -c 4 ya.ru
+2024-09-12 16:53:59.700 +0300 ershov_sergei_viktorovich : sudo traceroute -T ya.ru
+2024-09-12 16:54:27.652 +0300 ershov_sergei_viktorovich : sudo mtr -T ya.ru
+2024-09-12 16:54:44.228 +0300 ershov_sergei_viktorovich : sudo mtr -T -c 5 ya.ru
+2024-09-12 16:54:55.627 +0300 ershov_sergei_viktorovich : route
+2024-09-12 16:55:00.803 +0300 ershov_sergei_viktorovich : sudo route add default gw <gateway-ip>
+2024-09-12 16:55:42.239 +0300 ershov_sergei_viktorovich : sudo route add default gw 192.168.30.0
+2024-09-12 16:56:57.837 +0300 ershov_sergei_viktorovich : sudo route add -net 192.168.29.0 gw 192.168.30.0  ens33
+2024-09-12 16:57:26.844 +0300 ershov_sergei_viktorovich : sudo route del -net 192.168.29.0
+2024-09-12 17:00:13.701 +0300 ershov_sergei_viktorovich : route add -host 10.10.2.20 reject
+2024-09-12 17:00:20.951 +0300 ershov_sergei_viktorovich : sudo route add -host 10.10.2.20 reject
+2024-09-12 17:00:39.592 +0300 ershov_sergei_viktorovich : sudo route add -net 192.168.127.0 netmask 255.255.255.0 reject
+2024-09-12 17:00:53.060 +0300 ershov_sergei_viktorovich : nmcli dev status
+2024-09-12 17:01:06.530 +0300 ershov_sergei_viktorovich : nmcli con show
+2024-09-12 17:01:15.859 +0300 ershov_sergei_viktorovich : nmcli con show -a
+2024-09-12 17:01:35.556 +0300 ershov_sergei_viktorovich : lspci | grep Eth
+2024-09-12 17:01:52.156 +0300 ershov_sergei_viktorovich : apt install ethtool
+2024-09-12 17:01:57.345 +0300 ershov_sergei_viktorovich : root apt install ethtool
+2024-09-12 17:02:05.635 +0300 ershov_sergei_viktorovich : sudo apt install ethtool
+2024-09-12 17:02:09.790 +0300 ershov_sergei_viktorovich : ethtool ens33
+2024-09-12 17:02:26.378 +0300 ershov_sergei_viktorovich : sudo ethtool -s ens33 speed 100 duplex full
+2024-09-12 17:02:44.010 +0300 ershov_sergei_viktorovich : sudo netstat -tnlp
+2024-09-12 17:03:01.637 +0300 ershov_sergei_viktorovich : ss -ta
+2024-09-12 17:03:07.875 +0300 ershov_sergei_viktorovich : ss -to
+2024-09-12 17:04:36.029 +0300 ershov_sergei_viktorovich : nc -zv 192.168.127.167 21 22 80 443 3000
+2024-09-12 17:05:00.919 +0300 ershov_sergei_viktorovich : nc -zv server2.tecmint.lan 20-90
+2024-09-12 17:05:17.496 +0300 ershov_sergei_viktorovich : nc -p 3000 -w 10 192.168.127.167 22
+2024-09-12 17:05:54.837 +0300 ershov_sergei_viktorovich : nc -nlv 8080
+2024-09-12 17:06:09.354 +0300 ershov_sergei_viktorovich : sudo nmap google.com
+2024-09-12 17:06:29.038 +0300 ershov_sergei_viktorovich : sudo apt install nmap
+2024-09-12 17:07:20.899 +0300 ershov_sergei_viktorovich : sudo nmap google.com
+2024-09-12 17:08:22.037 +0300 ershov_sergei_viktorovich : sudo nmap --traceroute ya.ru
+2024-09-12 17:08:50.088 +0300 ershov_sergei_viktorovich : sudo nmap --traceroute -sn  ya.ru
+2024-09-12 17:09:33.657 +0300 ershov_sergei_viktorovich : sudo nmap --traceroute -sn -PE google.com
+2024-09-12 17:09:49.207 +0300 ershov_sergei_viktorovich : host ya.ru
+2024-09-12 17:09:58.567 +0300 ershov_sergei_viktorovich : host google.com
+2024-09-12 17:10:13.078 +0300 ershov_sergei_viktorovich : dig ya.ru
+2024-09-12 17:10:26.572 +0300 ershov_sergei_viktorovich : dig google.com
+2024-09-12 17:11:28.812 +0300 ershov_sergei_viktorovich : nslookup ya.ru
+2024-09-12 17:11:37.099 +0300 ershov_sergei_viktorovich : nslookup google.com
+2024-09-12 17:11:54.723 +0300 ershov_sergei_viktorovich : sudo apt-get install tcpdump
+2024-09-12 17:12:03.022 +0300 ershov_sergei_viktorovich : tcpdump -i ens33
+2024-09-12 17:13:21.822 +0300 ershov_sergei_viktorovich : sudo tcpdump -i ens33
+2024-09-12 17:13:25.972 +0300 ershov_sergei_viktorovich : tcpdump -c 5 -i lo
+2024-09-12 17:13:42.559 +0300 ershov_sergei_viktorovich : sudo tcpdump -c 5 -i lo
+2024-09-12 17:17:00.738 +0300 ershov_sergei_viktorovich : tcpdump -w tcp.txt -i ens33
+2024-09-12 17:18:13.350 +0300 ershov_sergei_viktorovich : sudo tcpdump -w tcp.txt -i ens33
+2024-09-12 17:18:18.569 +0300 ershov_sergei_viktorovich : sudo apt-get install Wireshark
+2024-09-12 17:21:36.683 +0300 ershov_sergei_viktorovich : wiresshark
+2024-09-12 17:21:44.976 +0300 ershov_sergei_viktorovich : wireshark
+2024-09-12 17:22:33.752 +0300 ershov_sergei_viktorovich : sudo add-apt-repository universe && sudo apt install wireshark
+2024-09-12 17:23:05.914 +0300 ershov_sergei_viktorovich : wireshark 
+2024-09-12 17:23:54.708 +0300 ershov_sergei_viktorovich : sudo wireshark 
+2024-09-12 17:24:08.206 +0300 ershov_sergei_viktorovich : sudo apt-get install bmon
+2024-09-12 17:24:31.014 +0300 ershov_sergei_viktorovich : man bmon 
+2024-09-12 17:24:52.780 +0300 ershov_sergei_viktorovich : bmon -a
+2024-09-12 17:25:33.227 +0300 ershov_sergei_viktorovich : rm command_history.log
