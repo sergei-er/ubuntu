@@ -1,0 +1,123 @@
+2024-09-06 20:37:35.538 +0000 ershov_sergei_viktorovich: Сгенерирован новый UUID: EzBAPuwZTnHBTRApUxFEXoDa9aPgESOTNPVm/zoPeqY5fbOSK3vdnulrcPfv0/e5CNx0Sv50VOLBkN0+wkBGpnZDPhHzn0/HJQCKuaPaVkZFfYut+2a9IbbaJHPU7a5fhzaBFVroQWwH1PcGEEkNJEFJ3aPd5+lTjnBwujlrIo+YgRwIKJJ5GtKMHVLh2SrXZDbwudo2mpkp6/Zwv0JOGzni8DzRyZ+upKCtTNv9ifzyNhKfpRBweZ0qumyXyqcur21pHTSup6utKwqtvbB1wpommvs5UwaeQYFR9h7UhKbxLomzHZfdbk5raE4Evxl653IBiGVFQLAjYgA+OYAurg==
+2024-09-06 20:37:35.540 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-06 20:37:36.575 +0000 ershov_sergei_viktorovich : nohup sudo ./compiled_script.sh.x 
+2024-09-06 20:37:41.714 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:38:06.237 +0000 ershov_sergei_viktorovich : nano nohup.out 
+2024-09-06 20:38:18.518 +0000 ershov_sergei_viktorovich : pkeyutl
+2024-09-06 20:39:19.813 +0000 ershov_sergei_viktorovich : ifconfig
+2024-09-06 20:39:26.977 +0000 ershov_sergei_viktorovich : nano nohup.out 
+2024-09-06 20:39:27.998 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:39:48.431 +0000 ershov_sergei_viktorovich : cd home
+2024-09-06 20:40:00.692 +0000 ershov_sergei_viktorovich : cd ../home
+2024-09-06 20:41:24.436 +0000 ershov_sergei_viktorovich : cat /var/log/command_history.log
+2024-09-06 20:41:43.845 +0000 ershov_sergei_viktorovich : cd /var/log
+2024-09-06 20:41:45.890 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:42:53.343 +0000 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-06 20:45:43.064 +0000 ershov_sergei_viktorovich : cp /var/log/command_history.log  /home/ershov_sergei_viktorovich/my-repo/ubuntu
+2024-09-06 20:46:30.092 +0000 ershov_sergei_viktorovich : cd /home/ershov_sergei_viktorovich/my-repo
+2024-09-06 20:46:31.120 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:46:53.606 +0000 ershov_sergei_viktorovich : git add ubuntu
+2024-09-06 20:47:42.677 +0000 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 20:48:37.839 +0000 ershov_sergei_viktorovich : ssh -T git@github.com:sergei-er/ubuntu.git
+2024-09-06 20:49:46.256 +0000 ershov_sergei_viktorovich : ssh -T git@github.com
+2024-09-06 20:50:05.660 +0000 ershov_sergei_viktorovich : git init 
+2024-09-06 20:50:30.165 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:50:44.460 +0000 ershov_sergei_viktorovich : cd ubuntu
+2024-09-06 20:50:46.506 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:51:08.956 +0000 ershov_sergei_viktorovich : cat /var/log/command_history.log
+2024-09-06 20:51:46.738 +0000 ershov_sergei_viktorovich : cd /var/log/
+2024-09-06 20:51:48.783 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:51:56.956 +0000 ershov_sergei_viktorovich : git init
+2024-09-06 20:52:35.765 +0000 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-06 20:52:41.894 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:52:57.217 +0000 ershov_sergei_viktorovich : cd /home/ershov_sergei_viktorovich/my-repo
+2024-09-06 20:53:00.281 +0000 ershov_sergei_viktorovich : cd ubuntu/
+2024-09-06 20:53:02.325 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:53:24.792 +0000 ershov_sergei_viktorovich : git add compiled_script.sh.x 
+2024-09-06 20:53:36.019 +0000 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-06 20:53:52.345 +0000 ershov_sergei_viktorovich : git commit -m "lol"
+2024-09-06 20:54:20.946 +0000 ershov_sergei_viktorovich : git push -u original master
+2024-09-06 20:55:40.568 +0000 ershov_sergei_viktorovich : git remote set-url origin git@github.com:sergei-er/ubuntu.git
+2024-09-06 20:56:03.028 +0000 ershov_sergei_viktorovich : git push -u original master
+2024-09-06 20:56:13.232 +0000 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 20:56:41.825 +0000 ershov_sergei_viktorovich : ssh -T git@github.com
+2024-09-06 20:56:56.122 +0000 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 20:57:54.377 +0000 ershov_sergei_viktorovich : git config --global user.name "sergei-er"
+2024-09-06 20:58:20.976 +0000 ershov_sergei_viktorovich : git config --global user.email "codemathphyinformation@gmail.com"
+2024-09-06 20:58:30.178 +0000 ershov_sergei_viktorovich : git intit
+2024-09-06 20:58:35.293 +0000 ershov_sergei_viktorovich : git init
+2024-09-06 20:58:38.379 +0000 ershov_sergei_viktorovich : ls
+2024-09-06 20:58:43.498 +0000 ershov_sergei_viktorovich : ls -a
+2024-09-06 20:59:03.967 +0000 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-06 20:59:38.744 +0000 ershov_sergei_viktorovich : git remote add origin https://github.com/sergei-er/ubuntu.git
+2024-09-06 20:59:53.065 +0000 ershov_sergei_viktorovich : git push -u original master
+2024-09-06 21:00:04.309 +0000 ershov_sergei_viktorovich : git push -u origin master
+2024-09-06 21:01:23.044 +0000 ershov_sergei_viktorovich : ls -al ~/.ssh
+2024-09-06 21:02:54.082 +0000 ershov_sergei_viktorovich : ssh-keygen -t rsa -b 4096 -C "codemathphyinformation@gmail.com"
+2024-09-06 21:03:22.746 +0000 ershov_sergei_viktorovich : eval "$(ssh-agent -s)"
+2024-09-06 21:03:52.426 +0000 ershov_sergei_viktorovich : ssh-add ~/.ssh/id_rsa
+2024-09-06 21:04:19.031 +0000 ershov_sergei_viktorovich : cat ~/.ssh/id_rsa.pub
+2024-09-06 21:05:34.650 +0000 ershov_sergei_viktorovich : ssh -T git@github.com
+2024-09-06 21:26:18.397 +0000 ershov_sergei_viktorovich : sudo /etc/init.d/gpm start
+2024-09-06 21:33:02.596 +0000 ershov_sergei_viktorovich : nano ~/.ssh/id_rsa.pub
+2024-09-06 21:33:23.082 +0000 ershov_sergei_viktorovich : sudo ufw disable
+2024-09-06 21:33:57.912 +0000 ershov_sergei_viktorovich : systemctl status sshd
+2024-09-06 21:34:23.544 +0000 ershov_sergei_viktorovich : sudo apt install openssh-server
+2024-09-06 21:34:28.673 +0000 ershov_sergei_viktorovich : systemctl status sshd
+2024-09-06 21:35:13.690 +0000 ershov_sergei_viktorovich : sudo systemctl restart sshd
+2024-09-06 21:35:58.662 +0000 ershov_sergei_viktorovich : sudfo apt update
+2024-09-11 14:27:45.219 +0000 ershov_sergei_viktorovich: UUID использован из /var/log/last_uuid.txt: EzBAPuwZTnHBTRApUxFEXoDa9aPgESOTNPVm/zoPeqY5fbOSK3vdnulrcPfv0/e5CNx0Sv50VOLBkN0+wkBGpnZDPhHzn0/HJQCKuaPaVkZFfYut+2a9IbbaJHPU7a5fhzaBFVroQWwH1PcGEEkNJEFJ3aPd5+lTjnBwujlrIo+YgRwIKJJ5GtKMHVLh2SrXZDbwudo2mpkp6/Zwv0JOGzni8DzRyZ+upKCtTNv9ifzyNhKfpRBweZ0qumyXyqcur21pHTSup6utKwqtvbB1wpommvs5UwaeQYFR9h7UhKbxLomzHZfdbk5raE4Evxl653IBiGVFQLAjYgA+OYAurg==
+2024-09-11 14:27:45.220 +0000 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-11 14:27:59.557 +0000 ershov_sergei_viktorovich : nano /var/log/command_history.log 
+2024-09-11 14:30:14.864 +0000 ershov_sergei_viktorovich : cd /home/ershov_sergei_viktorovich/
+2024-09-11 14:30:51.673 +0000 ershov_sergei_viktorovich : sudo apt install hping3
+2024-09-11 14:37:04.681 +0000 ershov_sergei_viktorovich : bmon -h
+2024-09-11 16:09:39.842 +0000 ershov_sergei_viktorovich : bmon -a
+2024-09-11 16:09:44.964 +0000 ershov_sergei_viktorovich : clear
+2024-09-11 16:09:53.170 +0000 ershov_sergei_viktorovich : ping google.com
+2024-09-12 13:45:30.160 +0000 ershov_sergei_viktorovich : ls
+2024-09-12 14:10:37.808 +0000 ershov_sergei_viktorovich : ifconfig 
+2024-09-12 14:36:22.748 +0000 ershov_sergei_viktorovich : ip addr show
+2024-09-12 14:36:46.264 +0000 ershov_sergei_viktorovich : hostname -I
+2024-09-12 14:38:45.877 +0000 ershov_sergei_viktorovich : sudo bmon -a
+2024-09-12 14:38:55.082 +0000 ershov_sergei_viktorovich : clear
+2024-09-12 14:39:23.703 +0000 ershov_sergei_viktorovich : sudo nano /var/log/command_history.log 
+2024-09-12 14:42:04.106 +0000 ershov_sergei_viktorovich : sudo bmon -a
+2024-09-12 14:42:28.644 +0000 ershov_sergei_viktorovich : sudo ifconfig bond0 down
+2024-09-12 14:43:00.344 +0000 ershov_sergei_viktorovich : sudo bmon -a
+2024-09-12 14:43:35.087 +0000 ershov_sergei_viktorovich : clear
+2024-09-12 14:43:59.612 +0000 ershov_sergei_viktorovich : sudo ifconfig bond0 up
+2024-09-12 14:45:28.480 +0000 ershov_sergei_viktorovich : ifconfig
+2024-09-12 14:46:21.642 +0000 ershov_sergei_viktorovich : ethtool
+2024-09-12 14:46:32.886 +0000 ershov_sergei_viktorovich : clear
+2024-09-12 14:46:36.972 +0000 ershov_sergei_viktorovich : ip a
+2024-09-12 14:49:43.012 +0000 ershov_sergei_viktorovich : ethtool bond0
+2024-09-12 14:52:06.137 +0000 ershov_sergei_viktorovich : sudo bmon -a
+2024-09-12 14:52:11.250 +0000 ershov_sergei_viktorovich : clear
+2024-09-12 14:52:42.956 +0000 ershov_sergei_viktorovich : sudo ifconfig bond0 down
+2024-09-12 14:52:57.275 +0000 ershov_sergei_viktorovich : ifconfig 
+2024-09-12 14:53:02.394 +0000 ershov_sergei_viktorovich : ip a
+2024-09-12 14:54:00.640 +0000 ershov_sergei_viktorovich : sudo ethtool bond0
+2024-09-12 14:56:30.946 +0000 ershov_sergei_viktorovich : sudo bmon -a
+2024-09-12 14:56:34.020 +0000 ershov_sergei_viktorovich : clear
+2024-09-12 14:56:43.247 +0000 ershov_sergei_viktorovich : sudo ifconfig bond0 up
+2024-09-12 14:58:42.880 +0000 ershov_sergei_viktorovich : iperf -s
+2024-09-12 14:58:59.261 +0000 ershov_sergei_viktorovich : sudo apt install iperf
+2024-09-12 14:59:06.421 +0000 ershov_sergei_viktorovich : iperf -s
+2024-09-12 15:00:13.897 +0000 ershov_sergei_viktorovich : sudo apt install iperf3
+2024-09-12 15:00:27.184 +0000 ershov_sergei_viktorovich : ping google.com
+2024-09-12 15:00:33.314 +0000 ershov_sergei_viktorovich : ifconfig
+2024-09-12 15:02:07.429 +0000 ershov_sergei_viktorovich : sudo ifconfig ens33 192.168.30.130 netmask 255.255.255.0
+2024-09-12 15:02:12.543 +0000 ershov_sergei_viktorovich : ifconfig
+2024-09-12 15:02:20.742 +0000 ershov_sergei_viktorovich : ping google.com
+2024-09-12 15:02:51.416 +0000 ershov_sergei_viktorovich : sudo apt install iperf3
+2024-09-12 15:03:04.702 +0000 ershov_sergei_viktorovich : iperf -s
+2024-09-12 15:03:25.152 +0000 ershov_sergei_viktorovich : iperf3 -s
+2024-09-12 15:03:42.538 +0000 ershov_sergei_viktorovich : sudo apt install iperf
+2024-09-12 15:08:56.395 +0000 ershov_sergei_viktorovich : iperf -s
+2024-09-12 15:09:18.884 +0000 ershov_sergei_viktorovich : tcpdump -i bond0
+2024-09-12 15:12:36.245 +0000 ershov_sergei_viktorovich : sudo tcpdump -i bond0
+2024-09-12 15:13:49.898 +0000 ershov_sergei_viktorovich : ls
+2024-09-12 15:13:58.077 +0000 ershov_sergei_viktorovich : ls my-repo/
+2024-09-12 15:14:09.318 +0000 ershov_sergei_viktorovich : ls my-repo/ubuntu/
+2024-09-12 15:14:23.622 +0000 ershov_sergei_viktorovich : rm my-repo/ubuntu/command_history.log 

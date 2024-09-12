@@ -290,3 +290,10 @@
 2024-09-12 17:24:31.014 +0300 ershov_sergei_viktorovich : man bmon 
 2024-09-12 17:24:52.780 +0300 ershov_sergei_viktorovich : bmon -a
 2024-09-12 17:25:33.227 +0300 ershov_sergei_viktorovich : rm command_history.log
+2024-09-12 17:25:42.552 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-12 17:25:52.909 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-12 17:26:13.657 +0300 ershov_sergei_viktorovich : git commit -m "1.4.13"
+2024-09-12 17:26:19.880 +0300 ershov_sergei_viktorovich : git push
+2024-09-12 17:38:15.527 +0300 ershov_sergei_viktorovich : ping 192.168.30.133
+2024-09-12 18:17:32.282 +0300 ershov_sergei_viktorovich : ping -a 192.168.30.133
+2024-09-12 18:22:59.837 +0300 ershov_sergei_viktorovich : scp ershov_sergei_viktorovich@192.168.30.133:/home/ershov_sergei_viktorovich/my-repo/ubuntu/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
