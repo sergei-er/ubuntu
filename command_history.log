@@ -297,3 +297,28 @@
 2024-09-12 17:38:15.527 +0300 ershov_sergei_viktorovich : ping 192.168.30.133
 2024-09-12 18:17:32.282 +0300 ershov_sergei_viktorovich : ping -a 192.168.30.133
 2024-09-12 18:22:59.837 +0300 ershov_sergei_viktorovich : scp ershov_sergei_viktorovich@192.168.30.133:/home/ershov_sergei_viktorovich/my-repo/ubuntu/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-12 18:24:10.284 +0300 ershov_sergei_viktorovich : cp /var/log/command_history.log /home/ershov_sergei_viktorovich/Desktop/my-repo/ubuntu/
+2024-09-12 18:24:22.710 +0300 ershov_sergei_viktorovich : git add command_history.log 
+2024-09-12 18:24:38.267 +0300 ershov_sergei_viktorovich : git add command_history_serv.log 
+2024-09-12 18:25:11.451 +0300 ershov_sergei_viktorovich : git commit -m "1.4.14"
+2024-09-12 18:25:18.704 +0300 ershov_sergei_viktorovich : git push
+2024-09-12 20:14:51.235 +0300 ershov_sergei_viktorovich : adduser user1
+2024-09-12 20:15:40.983 +0300 ershov_sergei_viktorovich : sudo adduser user1
+2024-09-12 20:16:35.954 +0300 ershov_sergei_viktorovich : sudo ecryptfs-migrate-home -u user1
+2024-09-12 20:17:26.393 +0300 ershov_sergei_viktorovich : sudo apt-get install ecryptfs-utils cryptsetup
+2024-09-12 20:33:07.966 +0300 ershov_sergei_viktorovich : sudo ecryptfs-migrate-home -u user1
+2024-09-12 20:35:07.919 +0300 user1 : ls
+2024-09-12 20:35:16.299 +0300 user1 : sudo ls
+2024-09-12 20:35:41.403 +0300 user1 : ls /home/
+2024-09-12 20:36:15.920 +0300 user1 : ecryptfs-setup-swap
+2024-09-12 20:36:25.339 +0300 user1 : sudo ecryptfs-setup-swap
+2024-09-12 20:36:38.932 +0300 user1 : clear
+2024-09-12 20:36:44.175 +0300 user1 : ls /home/
+2024-09-12 20:37:06.150 +0300 user1 : clear
+2024-09-12 20:37:08.244 +0300 user1 : df -f
+2024-09-12 20:37:13.473 +0300 user1 : clear
+2024-09-12 20:37:16.613 +0300 user1 : df -h
+2024-09-12 20:38:03.685 +0300 user1 : su ershov_sergei_viktorovich
+2024-09-12 20:38:23.599 +0300 ershov_sergei_viktorovich : clear
+2024-09-12 20:38:37.214 +0300 ershov_sergei_viktorovich : ls
+2024-09-12 20:39:03.332 +0300 ershov_sergei_viktorovich : rm command_history.log 
